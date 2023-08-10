@@ -41,6 +41,7 @@ roberto.carrinho.push(
     { item: monitor, quantidade: 1 }
 );
 
+
 console.log(patricia);
 console.log(carlos);
 console.log(renato);
